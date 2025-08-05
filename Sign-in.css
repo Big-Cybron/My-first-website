@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.Login-form {
+    align-items: center;
+    
+    margin-top: 10px;
+}
