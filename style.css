@@ -1,0 +1,85 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+header {
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    gap: 90px;
+    background-color: skyblue; 
+
+}
+
+.store-name {
+    margin-left: 20px;
+
+}
+
+nav ul {
+    display: flex;
+    gap: 15rem;
+    margin-top: 1.5rem;
+}
+
+nav ul li {
+    list-style: none;
+    font-size: large;
+}
+
+nav ul li a{
+    text-decoration: none;
+}
+
+.sign-in {
+    width: 90px;
+    height: 50px;
+    margin-top: 7px;
+    border-radius: 20px;
+    background-color: green;
+    cursor: pointer;
+    margin-left: 10px;
+    color: white;
+    border: none;
+}
+
+.decor {
+    height: 600px;
+    width: 700px;
+    margin-top: 10px;
+}
+
+.intro {
+    display: flex;
+    gap: 80px;
+}
+
+.Heading-text {
+    margin-left: 80px;
+    font-size: larger;
+}
+
+p{
+    line-height: 30px;
+    text-align: center;
+}
+
+.collection {
+    margin-left: 12px;
+    margin-top: 10px;
+    display: flex;
+    gap: 20px;
+}
+
+.coll-head {
+    text-align: center;
+    font-size: 25px;
+}
+
+.coll {
+    width: 270px;
+    height: 300px;
+}
